@@ -39,8 +39,8 @@ $ pip install tqdm opencv-python
 ```
 $ python train_source.py
 ```
-4. Choose an algorithm and pass it the pretrained network, for example:
+4. Choose an algorithm and pass it the pretrained network, for example, adverserial discriminative method:
 ```
 $ python adda.py trained_models/source.pt
 ```
-
+replace adda.py with wdgrl.py for WD-distance and revgrad.py for gradient reversal
