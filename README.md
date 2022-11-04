@@ -1,4 +1,4 @@
-# Pytorch Adversarial Domain Generalization
+# Adversarial Domain Generalization
 A collection of implementations of adversarial unsupervised domain adaptation algorithms a special case of domain generalization.
 
 ## Domain adaptation
